@@ -20,20 +20,30 @@ The initial product strategy is an open question, designed to be answered collab
 
 ## 4. Community Governance Model
 
-The proposed governance model is centered on community control over the LLM. Participants will be empowered to vote on the core prompts submitted to the AI, which will, in turn, define the parameters for equitable distribution based on contributions. This voting system will require a sophisticated architecture with robust safeguards to mitigate risks such as prompt manipulation and ensure its integrity.
+Inspired by successful Decentralized Autonomous Organizations (DAOs), our proposed governance model is centered on community control, managed through a native governance token.
 
-## 5. Other Key Areas to be Fleshed Out
+- **Governance Tokens:** A dedicated token will be distributed to contributors, granting them voting rights on key project decisions. This ensures that the most active and invested members have a proportional say in the project's direction.
+- **Community Treasury:** The project will maintain a treasury, funded through mechanisms to be decided by the community (e.g., protocol fees, token sales). These funds will be used to finance development, reward contributors, and grow the ecosystem, with all spending approved by token holders.
+- **Proposal System:** All major decisions, from roadmap changes to treasury spending, will be executed through a formal proposal system (akin to Aave's AIPs). This includes voting on the core prompts submitted to the LLM for equity distribution, ensuring the process is democratic and transparent.
+- **Mitigating Manipulation:** The voting system will incorporate mechanisms to mitigate risks like prompt manipulation or voter apathy. Models like the vote-escrowed (ve) system used by Curve DAO, which rewards long-term token holders with greater voting power, will be explored to ensure stability.
 
-The experimental nature of this venture means that many standard business components will be developed collaboratively with the community once the core idea has demonstrated sufficient appeal. These areas include:
+## 5. Contributor, Founder, and Investor Rewards
 
-- **Formal Legal Structure:** A detailed legal framework for the company and the novel, fluid ownership structure will need to be established to ensure regulatory compliance, particularly concerning securities laws.
+To attract and retain talent, Distributed.ai will adopt proven compensation models from the Web3 ecosystem, ensuring all participants are rewarded fairly for their contributions.
 
-- **LLM Governance:** The specific mechanisms for how the community will collaboratively edit the LLM's prompts, along with safeguards against manipulation, bias, and other technical and ethical challenges, need to be designed.
+- **For Contributors:**
+    - **Grants:** Teams or individuals can propose projects to the DAO. If approved by the community, the treasury will release funds for development, research, or marketing campaigns.
+    - **Bounties:** Smaller, specific tasks will be funded through bounties that any community member can complete to earn rewards.
+    - **Token Rewards:** Active participation and valuable contributions will be rewarded with governance tokens, giving contributors a direct stake in the project's future success.
+- **For Founders & Early Investors:**
+    - **Token Allocation:** A pre-defined percentage of the total token supply will be allocated to founders and early investors to reward them for their initial vision, risk, and capital.
+    - **Vesting Schedules:** To ensure long-term commitment, these allocations will be subject to a vesting schedule (e.g., a 4-year period with a 1-year cliff). This standard practice protects the community by aligning the founding team's incentives with the project's long-term health.
 
-- **Detailed Governance Model:** A comprehensive governance model that goes beyond prompt-editing will need to be created to address dispute resolution, voting rights, and the overall decision-making process.
+## 6. Key Areas for Collaborative Development
 
-- **Compliant Reward Structure:** The initial multi-level marketing approach for user acquisition will need to be refined into a sustainable and legally compliant referral program that does not violate laws against pyramid schemes.
+The experimental nature of this venture means that many components will be developed collaboratively with the community. Key open questions include:
 
-- **Long-Term Product Monetization:** A viable, ethical, and legally sound product will need to be chosen and developed. The initial idea of monetizing user personal data requires navigating significant privacy laws and ethical considerations.
-
-- **Investor Relations:** If external investment is sought, a framework will be needed to accommodate investors whose expectations of fixed equity may conflict with the dynamic, LLM-driven model.
+- **Formal Legal Structure:** Establishing a legal framework for the DAO to ensure regulatory compliance, particularly concerning securities laws.
+- **Detailed LLM Governance:** Designing the specific mechanisms for how the community will collaboratively propose, test, and implement the LLM's prompts, along with technical safeguards against bias and manipulation.
+- **Specifics of the Governance Model:** Creating a comprehensive governance model that defines voting thresholds, dispute resolution processes, and the overall decision-making lifecycle.
+- **Long-Term Product Monetization:** Choosing and developing a viable, ethical, and legally sound product. The initial concept of a personal data platform requires navigating significant privacy laws and ethical considerations, which the community must address.
