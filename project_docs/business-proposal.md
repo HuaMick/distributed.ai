@@ -10,22 +10,23 @@ This plan outlines a community-driven experiment to validate using AI to manage 
 
 ## 2. Executive Summary
 
-This project is an experiment to determine the viability of a more equitable, distributed ownership model managed by Large Language Models (LLMs). The core premise is to leverage an LLM to dynamically and fairly distribute ownership, profits, or both among all project contributors.
+This project introduces a pioneering governance framework that stands at the intersection of decentralized community principles and the exponential advancements in Large Language Models (LLMs). While traditional Decentralized Autonomous Organizations (DAOs) have democratized decision-making, their effectiveness is often capped by subjective resource allocation, political dynamics, and an over-reliance on volatile crypto-assets for incentives. Our experiment is designed to solve these fundamental challenges.
 
-The initial phase is focused on building a community to validate this core concept. We will engage with online communities to gather feedback and gauge interest. Sufficient community engagement will unlock further resource commitment to formalize the project's structure and roadmap.
+The core of our model is a next-generation DAO that utilizes a continuously learning LLM as its primary "sense-making" engine. Recognizing that LLM capabilities are advancing every few months, our architecture is built to evolve, becoming progressively more nuanced and effective over time. Instead of relying on simplistic voting or token-holding metrics, the LLM will programmatically analyze the full spectrum of verifiable contributions. By ingesting and evaluating data directly from sources like Git repository commits, documentation updates, design contributions, and community support metrics, the LLM will generate objective, transparent, and equitable recommendations for ownership and reward distribution.
+
+This data-driven approach allows us to transcend many of the inherent limitations of human-led governance. While all systems require oversight, an LLM governed by clear rules is significantly more impartial and less susceptible to the personal biases and political maneuvering that can undermine human committees. The initial phase of this project is focused on building a foundational community to validate this core concept. Through targeted engagement, we will gather critical feedback and, with sufficient community buy-in, commit resources to formalize the project's structure and technical roadmap, creating a truly meritocratic and effective decentralized organization.
 
 ## 3. Product and Value Proposition
 
-The initial product strategy is an open question, designed to be answered collaboratively with the community to ensure alignment with the model's principles. A leading concept is a platform that empowers users with greater ownership and control over their personal data, ensuring it is leveraged for their benefit rather than for corporate interests. This approach directly reflects the project's mission.
+The initial product strategy is an open question, designed to be answered collaboratively with the community. This ensures that our final direction aligns with our core principles and leverages the collective wisdom of our members. Several promising concepts have been identified as potential starting points:
+
+- **A Platform for LLM-Powered DAOs:** We could create a foundational platform or template that empowers other entrepreneurs and communities to easily launch their own DAOs using an LLM for governance and reward distribution. This would position us as a key enabler in the next generation of decentralized organizations.
+- **A Personal Data DAO:** In a world where personal data is controlled by a handful of large corporations, we could build a DAO that allows individuals to pool their data and collectively control its use. This would empower users to monetize their own data or contribute it to research initiatives that align with their values, rather than corporate interests.
+- **Community-Owned AI Development Tools:** The AI landscape is evolving at an unprecedented pace, but it is heavily dominated by well-funded, for-profit companies. We could focus on creating open-source, community-developed AI tools. A DAO structure would allow these tools to be built and maintained without relying on traditional venture capital, ensuring that decisions are driven by community needs rather than investor demands.
 
 ## 4. Community Governance Model
 
-Inspired by successful Decentralized Autonomous Organizations (DAOs), our proposed governance model is centered on community control, managed through a native governance token.
-
-- **Governance Tokens:** A dedicated token will be distributed to contributors, granting them voting rights on key project decisions. This ensures that the most active and invested members have a proportional say in the project's direction.
-- **Community Treasury:** The project will maintain a treasury, funded through mechanisms to be decided by the community (e.g., protocol fees, token sales). These funds will be used to finance development, reward contributors, and grow the ecosystem, with all spending approved by token holders.
-- **Proposal System:** All major decisions, from roadmap changes to treasury spending, will be executed through a formal proposal system (akin to Aave's AIPs). This includes voting on the core prompts submitted to the LLM for equity distribution, ensuring the process is democratic and transparent.
-- **Mitigating Manipulation:** The voting system will incorporate mechanisms to mitigate risks like prompt manipulation or voter apathy. Models like the vote-escrowed (ve) system used by Curve DAO, which rewards long-term token holders with greater voting power, will be explored to ensure stability.
+Our governance model is detailed in a separate [Community Governance Plan](./governance.md).
 
 ## 5. Contributor, Founder, and Investor Rewards
 
@@ -39,7 +40,7 @@ To attract and retain talent, Distributed.ai will adopt proven compensation mode
     - **Token Allocation:** A pre-defined percentage of the total token supply will be allocated to founders and early investors to reward them for their initial vision, risk, and capital.
     - **Vesting Schedules:** To ensure long-term commitment, these allocations will be subject to a vesting schedule (e.g., a 4-year period with a 1-year cliff). This standard practice protects the community by aligning the founding team's incentives with the project's long-term health.
 
-## 6. Key Areas for Collaborative Development
+## 6. Open questions and challenges to 
 
 The experimental nature of this venture means that many components will be developed collaboratively with the community. Key open questions include:
 
